@@ -1,0 +1,34 @@
+[
+  {
+    "game_level": "easy",
+    "time_taken": 15,
+    "mines_found": 2,
+    "total_number_of_mines": 10,
+    "number_of_moves": 5,
+    "win": false
+  },
+  {
+    "game_level": "medium",
+    "time_taken": 174,
+    "mines_found": 16,
+    "total_number_of_mines": 40,
+    "number_of_moves": 21,
+    "win": false
+  },
+  {
+    "game_level": "easy",
+    "time_taken": 29,
+    "mines_found": 0,
+    "total_number_of_mines": 10,
+    "number_of_moves": 6,
+    "win": false
+  },
+  {
+    "game_level": "easy",
+    "time_taken": 49,
+    "mines_found": 0,
+    "total_number_of_mines": 10,
+    "number_of_moves": 22,
+    "win": true
+  }
+]

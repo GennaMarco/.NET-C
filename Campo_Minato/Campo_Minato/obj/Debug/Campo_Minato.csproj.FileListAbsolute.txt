@@ -1,0 +1,40 @@
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\bin\Debug\Campo_Minato.exe.config
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\bin\Debug\Campo_Minato.exe
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\bin\Debug\Campo_Minato.pdb
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.Form1.resources
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.Properties.Resources.resources
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.exe
+C:\Users\Marco\Desktop\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.pdb
+F:\Programmazione C#\Campo_Minato\Campo_Minato\Campo_Minato\bin\Debug\Campo_Minato.exe.config
+F:\Programmazione C#\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.exe
+F:\Programmazione C#\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.pdb
+I:\Programmazione C#\Campo_Minato\Campo_Minato\Campo_Minato\bin\Debug\Campo_Minato.exe.config
+I:\Programmazione C#\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.exe
+I:\Programmazione C#\Campo_Minato\Campo_Minato\Campo_Minato\obj\Debug\Campo_Minato.pdb
+C:\Users\degennarom\Desktop\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.exe.config
+C:\Users\degennarom\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.exe
+C:\Users\degennarom\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.pdb
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.exe.config
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.exe
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.pdb
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.csprojResolveAssemblyReference.cache
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.Form1.resources
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.Properties.Resources.resources
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.csproj.GenerateResource.Cache
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.exe
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.pdb
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Newtonsoft.Json.dll
+G:\Programmazione C#\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.exe.config
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.exe
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.pdb
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.exe
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Campo_Minato.pdb
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.Form1.resources
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.Properties.Resources.resources
+C:\Users\Marco\Desktop\Campo_MinatoClassVersion\Campo_Minato\obj\Debug\Campo_Minato.csproj.GenerateResource.Cache
